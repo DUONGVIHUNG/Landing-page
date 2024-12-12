@@ -3,9 +3,10 @@
     font-family: 'Roboto';
 }
 
-.header-box1{
+.header-box1, .header-link{
     display: flex;
 }
+
 
 .header-logo{
     font-size: 24px;
