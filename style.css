@@ -12,6 +12,7 @@
     display: flex;
     margin-top: 15px;
     margin-left: 10px;
+    margin-right: 160px;
     margin-bottom: 100px;
 }
 
@@ -57,8 +58,8 @@
     color:#f2f4f8;
     box-sizing: border-box;
     /* font-size: 10px; */
-    margin-right: 150px;
-    margin-left: 15px;
+    margin-right: 100px;
+    margin-left: 100px;
     padding: 100px 150px;
 }
 
@@ -69,4 +70,33 @@
     font-size: 18px;
     font-weight: 600;
     padding: 5px 30px;
+}
+
+.body-title{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin: 20px 20px;
+}
+
+
+.body-box{
+    display:flex;
+    margin: 0px 550px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.frame{
+    box-sizing: border-box;
+    border: solid #3882F6 5px;
+    height: 150px;
+    width: 150px;
+    margin: 10px 20px;
+}
+.text{
+    text-align: center;
+    width: 190px;
+    margin: 0px 10px;
 }
