@@ -100,3 +100,21 @@
     width: 190px;
     margin: 0px 10px;
 }
+
+.the-quote{
+    background-color: #E5E7EB;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    padding: 100px 500px 0px 500px;
+}
+.author{
+    font-size: 18px;
+    text-align: end;
+    padding-bottom: 100px;
+    margin:0px 550px 0px 0px;
+}
