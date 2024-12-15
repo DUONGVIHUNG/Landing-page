@@ -118,3 +118,32 @@
     padding-bottom: 100px;
     margin:0px 550px 0px 0px;
 }
+
+.action-box{
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px 200px;
+    padding: 50px 150px;
+}
+
+.action-text{
+    margin-right: 350px;
+}
+
+.call{
+    font-weight: 900;
+    font-size: 18px;
+    color:#F9FAF8;
+}
+
+.signup{
+    font-size: 18px;
+    font-weight: light;
+    color:#F9FAF8;
+}
+
+.footer{
+    background-color: #1F2937; 
+    text-align: center;
+    margin: 50px 0px;
+}
